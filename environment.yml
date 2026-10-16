@@ -1,0 +1,14 @@
+name: amrc-clip
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - fenics-dolfinx=0.9
+  - petsc=*=real*
+  - petsc4py
+  - suitesparse
+  - mpich
+  - mpi4py
+  - python-gmsh
+  - numpy
+  - scipy

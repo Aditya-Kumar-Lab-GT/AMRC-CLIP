@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+
+# simulation output
+results/
+*.xdmf
+*.h5
+*.msh
